@@ -1,0 +1,33 @@
+.container{
+    width: 450px;
+    background-color: rgba(4, 68, 242, 0.119);
+    backdrop-filter: blur(50px);
+    border: 2px sold rgba(4, 68, 242, 0.119);
+    padding: 60px;
+    border-radius: 40px;
+}
+
+.container h1 {
+    text-align: center;
+    font-size: 40px;
+    color: brown;
+}
+
+.container input-field {
+    position: relative;
+    width: 100%;
+    height: 50px;
+    margin: 50px auto;
+}
+
+.input-field input {
+    width: 100%;
+    height: 100%;
+    background-color: transparent;
+    outline: none;
+    border: 2px solid rgba(255, 255, 255, 0.2);
+    border-radius: 40px;
+    font-size: 20px;
+    color: black;
+    padding: 20px 45px;
+}
