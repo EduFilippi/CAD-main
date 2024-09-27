@@ -39,14 +39,8 @@ const Perfil = () => {
                   onChange={(e) => setPassword(e.target.value)} />
               </div>
               <div>
-                <a href="#">Esqueceu a senha?</a>
               </div>
-              <button>ENTRAR</button>
-              <div className="signup-link">
-                <p>
-                  Não tem uma conta? <a href="#">CONFIRMAR</a>
-                </p>
-              </div>
+              <button>CONFIRMAR</button>
             </div>
           </div>
         </form>
